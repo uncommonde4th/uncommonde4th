@@ -3,10 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uncommonde4th&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&cache_seconds=300&timestamp=1&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />   
+  
+![](https://github-readme-stats.vercel.app/api?username=uncommonde4th&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 </div>
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonde4th&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonde4th&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ###
