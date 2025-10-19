@@ -4,12 +4,12 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=uncommonde4th&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=3600)
+![](https://github-readme-stats.vercel.app/api?username=uncommonde4th&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 </div>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonde4th&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=3600)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonde4th&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
