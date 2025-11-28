@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonde4th&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonde4th&theme=dark&hide_border=false&layout=compact&hide=makefile,cmake)
 
 </div>
 
