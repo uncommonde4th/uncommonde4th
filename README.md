@@ -4,12 +4,12 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=uncommonde4th&theme=dark&hide_border=false)
+[![](https://github-stats-extended.vercel.app/api?username=uncommonde4th&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uncommonde4th&theme=dark&hide_border=false&layout=compact&hide=makefile,cmake)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=uncommonde4th&layout=compact&theme=tokyonight&hide=makefile,cmake)
 
 </div>
 
@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
