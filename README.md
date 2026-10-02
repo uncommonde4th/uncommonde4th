@@ -4,12 +4,13 @@
 
 <div align="center">
   
-[![](https://github-stats-extended.vercel.app/api?username=uncommonde4th&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended&cache_seconds=0) 
+[![](./profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
+
 <div align="center">
   
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=uncommonde4th&layout=compact&theme=tokyonight&hide=makefile,cmake&cache_seconds=0)
+![](./profile/top-langs.svg)
 
 </div>
 
